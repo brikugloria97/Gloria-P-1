@@ -188,6 +188,7 @@ padding: 2rem 0;
   }
 
   .list{
+    display: block;
     margin: 0.5rem 0;
     list-style: none;
   }
@@ -237,6 +238,26 @@ padding: 2rem 0;
     width: 100%;
     padding: 0.5rem;
   }
+
+.p-center{
+  text-align: center;
+}
+
+footer{
+  background: #541690;
+  width: 100%;
+  height: 40px;
+  justify-content: center;
+}
+
+footer p{
+  text-align: center;
+  padding-top: 7px;
+}
+
+/*  */
+
+  
 
 
 
